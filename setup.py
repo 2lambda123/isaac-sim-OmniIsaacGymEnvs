@@ -43,7 +43,7 @@ INSTALL_REQUIRES = [
     "protobuf==3.20.2",
     "omegaconf==2.3.0",
     "hydra-core==1.3.2",
-    "urllib3==1.26.16",
+    "urllib3==1.26.19",
     "rl-games==1.6.1",
     "moviepy==1.0.3",
     "gymnasium==0.28.1"
